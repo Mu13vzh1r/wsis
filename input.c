@@ -5,6 +5,7 @@
 
 #include "wsis.h"
 #include "input.h"
+#include "priority.h"
 
 static int readLine(char *input, int size){
     if (fgets(input, size, stdin) == NULL)
@@ -189,17 +190,20 @@ static void submitDescription(void){
 void runMenu(void){
     int choice = 0;
 
-    while (choice != 3 && choice != -1){
+    while (choice != 4 && choice != -1){
         printf("\n=== Water Shortage Reporting ===\n");
         printf("1) Submit a report\n");
         printf("2) Submit a written report\n");
-        printf("3) Exit\n");
+        printf("3) Show Priority List\n");
+        printf("4) Exit\n");
 
-        choice = getChoice(1, 3);
+        choice = getChoice(1, 4);
         if (choice == 1)
             submitReport();
         else if (choice == 2)
             submitDescription();
+        else if (choice == 3)
+            showPriorityList(10);
     }
     printf("Goodbye.\n");
 }
