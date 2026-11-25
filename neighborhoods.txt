@@ -17,3 +17,59 @@
 16,Block-17,Gulshan-e-Iqbal,32000
 17,Block-18,Gulshan-e-Iqbal,17000
 18,Block-19,Gulshan-e-Iqbal,34000
+19,Block-1,Gulistan-e-Johar,36000
+20,Block-2,Gulistan-e-Johar,29500
+21,Block-3,Gulistan-e-Johar,31000
+22,Block-4,Gulistan-e-Johar,24500
+23,Block-7,Gulistan-e-Johar,38000
+24,Block-8,Gulistan-e-Johar,27000
+25,Block-9,Gulistan-e-Johar,22000
+26,Block-10,Gulistan-e-Johar,26500
+27,Block-11,Gulistan-e-Johar,25000
+28,Block-12,Gulistan-e-Johar,33500
+29,Block-13,Gulistan-e-Johar,30000
+30,Block-14,Gulistan-e-Johar,28500
+31,Block-15,Gulistan-e-Johar,34000
+32,Block-16,Gulistan-e-Johar,21500
+33,Block-17,Gulistan-e-Johar,29000
+34,Block-18,Gulistan-e-Johar,31500
+35,Block-19,Gulistan-e-Johar,26000
+36,Block-20,Gulistan-e-Johar,23500
+37,Block-A,North Nazimabad,27500
+38,Block-B,North Nazimabad,24000
+39,Block-C,North Nazimabad,22500
+40,Block-D,North Nazimabad,26000
+41,Block-F,North Nazimabad,29000
+42,Block-G,North Nazimabad,23000
+43,Block-H,North Nazimabad,31500
+44,Block-I,North Nazimabad,25500
+45,Block-J,North Nazimabad,21000
+46,Block-L,North Nazimabad,28000
+47,Block-M,North Nazimabad,24500
+48,Block-N,North Nazimabad,30500
+49,Block-1,Clifton,18500
+50,Block-2,Clifton,22000
+51,Block-4,Clifton,26500
+52,Block-5,Clifton,24000
+53,Block-7,Clifton,19500
+54,Block-8,Clifton,21000
+55,Block-9,Clifton,25000
+56,Phase-1,DHA,19000
+57,Phase-2,DHA,23500
+58,Phase-4,DHA,25000
+59,Phase-5,DHA,28500
+60,Phase-6,DHA,34000
+61,Phase-7,DHA,27000
+62,Phase-8,DHA,31000
+63,Block-2,PECHS,24500
+64,Block-3,PECHS,21500
+65,Block-6,PECHS,29500
+66,Block-4,Federal B Area,26000
+67,Block-6,Federal B Area,24500
+68,Block-7,Federal B Area,28000
+69,Block-10,Federal B Area,30500
+70,Block-13,Federal B Area,27000
+71,Block-16,Federal B Area,29000
+72,Block-1,Nazimabad,23500
+73,Block-2,Nazimabad,25000
+74,Block-3,Nazimabad,22000
